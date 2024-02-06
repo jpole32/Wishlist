@@ -10,7 +10,7 @@ Time spent: 3 hours spent in total
 
 The following **required** functionality is completed:
 
-- [X ] **User can add an item to their wishlist**
+- [X ] **User can add an item to their wishlist*
 - [X] **User can see their list of items based on previously inputted items**
 
 
@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![wishlistDemo.gif](https://github.com/jpole32/Wishlist/blob/master/wishlistDemo.gif)
+![](https://github.com/jpole32/Wishlist/blob/master/wishlistDemo.gif)
 
 
 ## License
