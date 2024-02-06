@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-wishlistDemo.gif
+[wishlistDemo.gif](https://github.com/jpole32/Wishlist/blob/master/wishlistDemo.gif)
 
 
 ## License
